@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<questions>
+  <question time='30' points='10'>
+    <text>
+       Сколько пальцев у кота?
+    </text>
+    <answers>
+      <answer right_answer='true'>
+         18
+      </answer>
+      <answer>
+         20
+      </answer>
+      <answer>
+         16
+      </answer>
+    </answers>
+  </question>
+  <question time='30' points='5'>
+    <text>
+       Какие цвета есть на флаге РФ?
+    </text>
+    <answers>
+      <answer right_answer='true'>
+         Белый, синий, красный
+      </answer>
+      <answer>
+         Голубой, розовый, серый
+      </answer>
+      <answer>
+         В горошек, зелёный, фиолетовый
+      </answer>
+    </answers>
+  </question>
+  <question time='60' points='15'>
+    <text>
+       Тони Старк - это
+    </text>
+    <answers>
+      <answer right_answer='true'>
+         Человек-утюг
+      </answer>
+      <answer>
+         Ватман
+      </answer>
+      <answer>
+         Катман
+      </answer>
+      <answer>
+         Антман
+      </answer>
+    </answers>
+  </question>
+  <question time='60' points='10'>
+    <text>
+       Злейший враг спидермана
+    </text>
+    <answers>
+      <answer right_answer='true'>
+         Зелёный гоблин
+      </answer>
+      <answer>
+         Амбал
+      </answer>
+      <answer>
+         Человек-тапок
+      </answer>
+    </answers>
+  </question>
+  <question time='30' points='5'>
+    <text>
+      Сколько метров в киллометре?
+    </text>
+    <answers>
+      <answer right_answer='true'>
+        1000
+      </answer>
+      <answer>
+        1024
+      </answer>
+      <answer>
+        1
+      </answer>
+      <answer>
+        0.15
+      </answer>
+    </answers>
+  </question>
+</questions>
