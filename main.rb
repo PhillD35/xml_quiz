@@ -1,5 +1,4 @@
 require 'rexml/document'
-include REXML
 
 require_relative 'lib/question'
 require_relative 'lib/quiz'
